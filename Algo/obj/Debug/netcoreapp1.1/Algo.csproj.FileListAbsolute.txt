@@ -1,0 +1,9 @@
+c:\users\office\documents\visual studio 2017\Projects\Algo\Algo\bin\Debug\netcoreapp1.1\Algo.deps.json
+c:\users\office\documents\visual studio 2017\Projects\Algo\Algo\bin\Debug\netcoreapp1.1\Algo.runtimeconfig.json
+c:\users\office\documents\visual studio 2017\Projects\Algo\Algo\bin\Debug\netcoreapp1.1\Algo.runtimeconfig.dev.json
+c:\users\office\documents\visual studio 2017\Projects\Algo\Algo\bin\Debug\netcoreapp1.1\Algo.dll
+c:\users\office\documents\visual studio 2017\Projects\Algo\Algo\bin\Debug\netcoreapp1.1\Algo.pdb
+c:\users\office\documents\visual studio 2017\Projects\Algo\Algo\obj\Debug\netcoreapp1.1\Algo.csprojResolveAssemblyReference.cache
+c:\users\office\documents\visual studio 2017\Projects\Algo\Algo\obj\Debug\netcoreapp1.1\Algo.AssemblyInfo.cs
+c:\users\office\documents\visual studio 2017\Projects\Algo\Algo\obj\Debug\netcoreapp1.1\Algo.dll
+c:\users\office\documents\visual studio 2017\Projects\Algo\Algo\obj\Debug\netcoreapp1.1\Algo.pdb
